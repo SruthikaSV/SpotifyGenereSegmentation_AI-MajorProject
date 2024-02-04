@@ -1,6 +1,8 @@
 # SpotifyGenereSegmentation_AI-MajorProject
 Major Project of my Internship in WIPRO(Artificial Intelligence)
+
 I have performed,
+
 •	Data pre-processing operations.
 
 •	As a part of data analysis and visualizations i have drawn the possible plots to provide essential informations and to derive some meaningful insights.
